@@ -24,7 +24,7 @@ There are **95 independent variables**, covering key financial metrics such as:
 
 ---
 
-## Data Science Book Recommendation  
+## Data Science Book Source   
 **Title**: *Deep Learning*  
 **Authors**: Ian Goodfellow, Yoshua Bengio, and Aaron Courville  
 🔗 [Book URL](http://www.deeplearningbook.org/)
