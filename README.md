@@ -35,4 +35,3 @@ This book provides a comprehensive introduction to **machine learning fundamenta
 
 ![Personal Image](images/personal_image.jpeg)
 
-![Personal Image](images/personal_image.jpeg)
